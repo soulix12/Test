@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "cogent-script-221000",
+  "private_key_id": "a0601ebcd3a1c60ac0f167c032365478a66f8c1a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmVwCJoK5h397J\nwb6uuZHuvIfyWsL/wL21svY3cfI70qLJZzbXtjkpmRFYnEcdQKLLT6IK6VYmbXuv\n+9nrkFtLbq9o7Y1C4fSMzS/m5woy5czzSu9CL3P5W0EK4tghfbvroervaEFUbBEk\nwZQuyfbPUdx5uilWNc6uwf6xkArRyKHqAD8s/d4bCfiOzJEW2jtn/4/gRbZO7zb0\np+6e0bNQdYufRyfBJk3MgxjDIw47OPuSQui1Z0GYpD20XbpeE8fG2XroW4e/o7bp\nRTSUTl5gA5V2kIJCm1ZbCy9CDrL6wx/xuckRk725mTtRpwwQRgjq0sjykzBcGR6G\nHq06t7B9AgMBAAECggEAMsuMqXp85fyEPx5ACYE3lCzUYujedVU5WXwd/g54x1Xq\nShCPyc2mpRJOHr4SZVdwnx9hP23D1hZG2BXTlUDO8DkLrcIlChCQKlMaVqulDKfq\nLz1p1M9C3hnEwftFvuxzb2BRquwuTwZ1McE/bA5WpTa9WhrENsRVqj4pdbWj6C2a\n6LIG7qI1OYjkGm4SJJck8D6nvyTfFBFGaBNaRkVhpq+pzaAIEX3HaNclb++Sa4s4\nQ50RrKsXTr7YcK0GoEEwimYJ7dVHWBA21zIarGEMoH0aymkkxZskPjisfJ2to8In\nS9pNf30MA3Xqxbck68vRyOTofTByEjJTVNkLUstRjQKBgQDhM/JPNtNuQ1DQvGvo\n8ZQAVa/WNdfldQ75M76IEV8tNFSHslss8aqIj9IJov/Nxab0lbdCMTScRSOo2BjJ\nfPbmCJZ0/Um6w3ICfeV8AmlDPIErWhRC6stmU3IOHS1zqAGsjSx5JsIM+Fc2wZXr\nZA5Z+NawNUHU8z3DQE8XHNX4rwKBgQC9FlaZUKcBDqLw5yltg0ogHU3/nP1jCQWF\n3lx7oBBMKaVQP/EjgcakNryEUmiuNd9XutFMKMdWL6UtFm1Yk/Sq2Lhrx7KnZhbh\nv3eXiRxQmd/UH0ZXR4rWv6imRrY2fc1lwbtVCV8YmqdJX7pq3YHXlo3AKyxzIUT/\nDiL8afVckwKBgQC+JkZqbDiJ2XzbQr06qv/0aGVX0Y7Bx90kvXQbH8/lM1JMYWRq\nxoLfW9BVIrQq4sDds6xQz4tEh3xcjFohhspR4N5pWZRvhac2Q2cJFmAazXOjTyPc\nfLPRapPbJvfBuBHxyCHNCdS/btD1Au+7GXikr19W2SEE1X1I53vgYBCrMQKBgGpF\n/dIZlGNxuH6xTYVxft3h2o7Jy1g4H9SHj28kHUTRO0qJRZxxOhXddcLhFlijiq2i\nIDQvzylPigR3UGmybpb/S1e4W17ecAndNPgEZdefRD/SfBRd71iXS9B4ebzSo/iH\nFCTNKZeIhHEmzn11lZ53zZ+uJENo9YBsj5lSbEblAoGBALu+F6Ka0cIvblFh7NXG\nWhTvXeTMJA/L4NtYsvM7G73FMBwLvqpl5Obs7zV9CU8+I7LkZNAO+NLl8keuDXKJ\nVtNiooClPhWO+tibCw/YLDDZl+GdooTlF77vjEjopjZtJUJnXs8hPcXRU3iPnCMa\nOgwCglyiw9ADVXKqbZS583a9\n-----END PRIVATE KEY-----\n",
+  "client_email": "spreedsheet@cogent-script-221000.iam.gserviceaccount.com",
+  "client_id": "103344284065513199984",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spreedsheet%40cogent-script-221000.iam.gserviceaccount.com"
+}
